@@ -122,7 +122,7 @@ function memorize() {
 
 function memorize() {
     # Path to the file where details are saved
-    save_file="/Users/stanleytan/desktop/admin_code/bash_filePaths/a_saved_file_for_memorize.txt"
+    save_file="/Users/yourusername/desktop/admin_code/bash_filePaths/a_saved_file_for_memorize.txt"
     
     # Function to check if save file exists and has content
     check_save_file() {
